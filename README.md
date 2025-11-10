@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/engabelal"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=engabelal.devops-portfolio) 
-  <img src="https://github.com/engabelal/engabelal/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/engabelal/engabelal/blob/main/profile-img.png" align="right" width="25%"/>
 
 I'm Senior DevOps & Cloud Engineer passionate about automation, scalability, and cloud-native solutions.
 
