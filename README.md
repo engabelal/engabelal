@@ -2,20 +2,44 @@
 <h3 align="center">Senior DevOps & Cloud Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/engabelal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:eng.abelal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.cloudycode.dev"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/engabelal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:eng.abelal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.cloudycode.dev">
+    <img src="https://img.shields.io/badge/Website-Visit-00C7B7?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
 </p>
 
 <br/>
 
 <img src="https://github.com/engabelal/engabelal/blob/main/profile-img.png" align="right" width="25%"/>
 
-Passionate about **automation**, **scalability**, and **cloud-native solutions**. Building production-ready infrastructure that scales.
+Passionate about **automation**, **scalability**, and **cloud-native solutions**. Specializing in building production-ready infrastructure with **zero-downtime deployments** and **Infrastructure as Code**.
 
 ## 💭 My Journey
 
 > *From managing **enterprise data centers** to building **cloud platforms**—my journey has always been driven by a passion for **automation**. I constantly built **scripts and tools** to eliminate manual work and solve real problems. That's when I found **Cloud & DevOps**—where **infrastructure meets code**, and where I now build **automated, scalable systems** that just work.*
+
+## 🎓 Certifications
+
+<div align="center">
+
+![AWS DevOps Pro](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure Architect](https://img.shields.io/badge/Azure-Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Admin](https://img.shields.io/badge/Azure-Administrator_Associate-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OCI Architect](https://img.shields.io/badge/Oracle-Cloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![VCP-NV](https://img.shields.io/badge/VMware-VCP_Network_Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Nutanix](https://img.shields.io/badge/Nutanix-NCM_MCI5_Master-024DA1?style=for-the-badge&logoColor=white)
+![Ansible](https://img.shields.io/badge/Red_Hat-Ansible_Specialist-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![RHCE](https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![CCNP](https://img.shields.io/badge/Cisco-CCNP_Data_Center-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VCP-DCV](https://img.shields.io/badge/VMware-VCP_DCV-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![ITIL](https://img.shields.io/badge/AXELOS-ITIL_Foundation-6C1D5F?style=for-the-badge&logoColor=white)
+
+</div>
 
 ## 🧰 Tech Stack
 
