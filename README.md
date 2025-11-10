@@ -27,17 +27,18 @@ Passionate about **automation**, **scalability**, and **cloud-native solutions**
 
 <div align="center">
 
-![AWS DevOps Pro](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure Architect](https://img.shields.io/badge/Azure-Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Admin](https://img.shields.io/badge/Azure-Administrator_Associate-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![OCI Architect](https://img.shields.io/badge/Oracle-Cloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![VCP-NV](https://img.shields.io/badge/VMware-VCP_Network_Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Nutanix](https://img.shields.io/badge/Nutanix-NCM_MCI5_Master-024DA1?style=for-the-badge&logoColor=white)
-![Ansible](https://img.shields.io/badge/Red_Hat-Ansible_Specialist-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![RHCE](https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![CCNP](https://img.shields.io/badge/Cisco-CCNP_Data_Center-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VCP-DCV](https://img.shields.io/badge/VMware-VCP_DCV-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![ITIL](https://img.shields.io/badge/AXELOS-ITIL_Foundation-6C1D5F?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Certified-DevOps_Engineer_Professional-white?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=232F3E&color=white)
+![Azure](https://img.shields.io/badge/Azure_Certified-Solutions_Architect_Expert-white?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0078D4&color=white)
+![Azure](https://img.shields.io/badge/Azure_Certified-Administrator_Associate-white?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=00A4EF&color=white)
+![Oracle](https://img.shields.io/badge/Oracle_Certified-Cloud_Architect_2023-white?style=flat-square&logo=oracle&logoColor=white&labelColor=F80000&color=white)
+![VMware](https://img.shields.io/badge/VMware_Certified-VCP_Network_Virtualization-white?style=flat-square&logo=vmware&logoColor=white&labelColor=607078&color=white)
+![Nutanix](https://img.shields.io/badge/Nutanix_Certified-NCM_MCI5_Master-white?style=flat-square&logo=nutanix&logoColor=white&labelColor=024DA1&color=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat_Certified-Ansible_Automation_Specialist-white?style=flat-square&logo=redhat&logoColor=white&labelColor=EE0000&color=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat_Certified-RHCE_Engineer-white?style=flat-square&logo=redhat&logoColor=white&labelColor=CC0000&color=white)
+![Cisco](https://img.shields.io/badge/Cisco_Certified-CCNP_Data_Center-white?style=flat-square&logo=cisco&logoColor=white&labelColor=049FD9&color=white)
+![Cisco](https://img.shields.io/badge/Cisco_Certified-Data_Center_Design_Specialist-white?style=flat-square&logo=cisco&logoColor=white&labelColor=1BA0D7&color=white)
+![VMware](https://img.shields.io/badge/VMware_Certified-VCP_Data_Center_Virtualization-white?style=flat-square&logo=vmware&logoColor=white&labelColor=5B8C3E&color=white)
+![AXELOS](https://img.shields.io/badge/AXELOS_Certified-ITIL_Foundation-white?style=flat-square&logo=itil&logoColor=white&labelColor=7B42BC&color=white)
 
 </div>
 
