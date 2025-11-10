@@ -14,8 +14,6 @@ I'm a **Senior DevOps & Cloud Engineer** passionate about automation, scalabilit
 
 > *From managing **enterprise data centers** to building **cloud platforms**—my journey has always been driven by a passion for **automation**. I constantly built **scripts and tools** to eliminate manual work and solve real problems. That's when I found **Cloud & DevOps**—where **infrastructure meets code**, and where I now build **automated, scalable systems** that just work.*
 
-<hr width="70%" align="left"/>
-
 ## 🧰 Tech Stack
 
 <div align="center">
