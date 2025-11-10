@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified"/>
+  <img src="https://img.shields.io/badge/AWS_Certified-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Certified"/>
   <img src="https://img.shields.io/badge/Azure_Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Certified"/>
   <img src="https://img.shields.io/badge/Oracle_Certified-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Certified"/>
   <img src="https://img.shields.io/badge/Red_Hat_Certified-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat Certified"/>
