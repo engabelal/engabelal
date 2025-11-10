@@ -13,6 +13,16 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Certified-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Certified"/>
+  <img src="https://img.shields.io/badge/Azure_Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Certified"/>
+  <img src="https://img.shields.io/badge/Oracle_Certified-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Certified"/>
+  <img src="https://img.shields.io/badge/Red_Hat_Certified-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat Certified"/>
+  <img src="https://img.shields.io/badge/Cisco_Certified-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified"/>
+  <img src="https://img.shields.io/badge/VMware_Certified-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware Certified"/>
+  <img src="https://img.shields.io/badge/Nutanix_Certified-024DA1?style=flat-square&logo=nutanix&logoColor=white" alt="Nutanix Certified"/>
+</p>
+
 <br/>
 
 <img src="https://github.com/engabelal/engabelal/blob/main/profile-img.png" align="right" width="25%"/>
@@ -22,25 +32,6 @@ Passionate about **automation**, **scalability**, and **cloud-native solutions**
 ## 💭 My Journey
 
 > *From managing **enterprise data centers** to building **cloud platforms**—my journey has always been driven by a passion for **automation**. I constantly built **scripts and tools** to eliminate manual work and solve real problems. That's when I found **Cloud & DevOps**—where **infrastructure meets code**, and where I now build **automated, scalable systems** that just work.*
-
-## 🎓 Certifications
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS_Certified-DevOps_Engineer_Professional-white?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=232F3E&color=white)
-![Azure](https://img.shields.io/badge/Azure_Certified-Solutions_Architect_Expert-white?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0078D4&color=white)
-![Azure](https://img.shields.io/badge/Azure_Certified-Administrator_Associate-white?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=00A4EF&color=white)
-![Oracle](https://img.shields.io/badge/Oracle_Certified-Cloud_Architect_2023-white?style=flat-square&logo=oracle&logoColor=white&labelColor=F80000&color=white)
-![VMware](https://img.shields.io/badge/VMware_Certified-VCP_Network_Virtualization-white?style=flat-square&logo=vmware&logoColor=white&labelColor=607078&color=white)
-![Nutanix](https://img.shields.io/badge/Nutanix_Certified-NCM_MCI5_Master-white?style=flat-square&logo=nutanix&logoColor=white&labelColor=024DA1&color=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat_Certified-Ansible_Automation_Specialist-white?style=flat-square&logo=redhat&logoColor=white&labelColor=EE0000&color=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat_Certified-RHCE_Engineer-white?style=flat-square&logo=redhat&logoColor=white&labelColor=CC0000&color=white)
-![Cisco](https://img.shields.io/badge/Cisco_Certified-CCNP_Data_Center-white?style=flat-square&logo=cisco&logoColor=white&labelColor=049FD9&color=white)
-![Cisco](https://img.shields.io/badge/Cisco_Certified-Data_Center_Design_Specialist-white?style=flat-square&logo=cisco&logoColor=white&labelColor=1BA0D7&color=white)
-![VMware](https://img.shields.io/badge/VMware_Certified-VCP_Data_Center_Virtualization-white?style=flat-square&logo=vmware&logoColor=white&labelColor=5B8C3E&color=white)
-![AXELOS](https://img.shields.io/badge/AXELOS_Certified-ITIL_Foundation-white?style=flat-square&logo=itil&logoColor=white&labelColor=7B42BC&color=white)
-
-</div>
 
 ## 🧰 Tech Stack
 
