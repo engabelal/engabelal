@@ -14,10 +14,6 @@ I'm a **Senior DevOps & Cloud Engineer** passionate about automation, scalabilit
 
 > *From managing **enterprise data centers** to building **cloud platforms**—my journey has always been driven by a passion for **automation**. I constantly built **scripts and tools** to eliminate manual work and solve real problems. That's when I found **Cloud & DevOps**—where **infrastructure meets code**, and where I now build **automated, scalable systems** that just work.*
 
-<br clear="right"/>
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -46,6 +42,8 @@ I'm a **Senior DevOps & Cloud Engineer** passionate about automation, scalabilit
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 
 </div>
+
+<br clear="right"/>
 
 ---
 
