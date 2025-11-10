@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Belal 👋</h1>
+<h3 align="center">Senior DevOps & Cloud Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/engabelal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -6,9 +7,11 @@
   <a href="https://www.cloudycode.dev"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
+<br/>
+
 <img src="https://github.com/engabelal/engabelal/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm a **Senior DevOps & Cloud Engineer** passionate about automation, scalability, and cloud-native solutions.
+Passionate about **automation**, **scalability**, and **cloud-native solutions**. Building production-ready infrastructure that scales.
 
 ## 💭 My Journey
 
