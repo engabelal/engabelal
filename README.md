@@ -33,6 +33,16 @@ Passionate about **automation**, **scalability**, and **cloud-native solutions**
 
 > *From managing **enterprise data centers** to building **cloud platforms**—my journey has always been driven by a passion for **automation**. I constantly built **scripts and tools** to eliminate manual work and solve real problems. That's when I found **Cloud & DevOps**—where **infrastructure meets code**, and where I now build **automated, scalable systems** that just work.*
 
+## 🧪 Hands-On Labs
+
+Check out my collection of **DevOps & Cloud hands-on labs** with practical examples and real-world scenarios:
+
+<p align="center">
+  <a href="https://github.com/engabelal/devops-hands-on-labs">
+    <img src="https://img.shields.io/badge/🚀_DevOps_Hands--On_Labs-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevOps Labs"/>
+  </a>
+</p>
+
 ## 🧰 Tech Stack
 
 <div align="center">
